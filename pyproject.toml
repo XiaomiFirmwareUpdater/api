@@ -6,7 +6,7 @@ authors = ["yshalsager <ysh-alsager@hotmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-fastapi = "^0.73.0"
+fastapi = "^0.74.0"
 uvicorn = "^0.17.4"
 
 [tool.poetry.dev-dependencies]
